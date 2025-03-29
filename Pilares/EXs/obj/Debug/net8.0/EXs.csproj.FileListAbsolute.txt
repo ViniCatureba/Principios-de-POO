@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\bin\Debug\net8.0\EXs.exe
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\bin\Debug\net8.0\EXs.deps.json
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\bin\Debug\net8.0\EXs.runtimeconfig.json
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\bin\Debug\net8.0\EXs.dll
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\bin\Debug\net8.0\EXs.pdb
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.AssemblyInfo.cs
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.sourcelink.json
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.dll
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\refint\EXs.dll
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.pdb
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\EXs.genruntimeconfig.cache
+C:\Users\vinic\Desktop\C#\Pilares POO\Pilares\EXs\obj\Debug\net8.0\ref\EXs.dll

@@ -24,3 +24,32 @@
 //Set -> metodo para alterar atributo privado
 
 
+
+
+
+
+
+// Polimorfismo depende de Heranca
+//Polimorfismo - Um metodo (com esse
+// nao existe polimorfismo sem heranca
+
+using Pilares;
+
+Carro2 carro1 =new Carro2();   
+CarroEletrico carroE = new CarroEletrico();
+
+carro1.modelo = "Fusca";
+carro1.marca = "Volkswagen";
+carro1.quilometragem = 3000;
+
+carroE.modelo = "Tesla Model 5";
+carroE.marca = "Tesla";
+carroE.quilometragem = 1000;
+carroE.bateria = 200;
+carroE.tempoDeCarga = 50;
+
+carro1.MostrarInformacoes();
+carroE.MostrarInformacoes();
+
+//outro tipo de polimorfismo
+carro1.MostrarInformacoes("vinicius");
